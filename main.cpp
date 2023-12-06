@@ -24,8 +24,8 @@ int main(void)
 
     bool allow_to_start = false;
 
-    int def_speed = 200;
-    double k = 0.375;
+    int def_speed = 220;
+    double k = 0.39;
 
     while (true)
     {
