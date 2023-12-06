@@ -25,7 +25,7 @@ int main(void)
     bool allow_to_start = false;
 
     int def_speed = 200;
-    double k = 0.35;
+    double k = 0.375;
 
     while (true)
     {
